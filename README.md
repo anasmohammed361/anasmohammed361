@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohammed Anas</h1>
-<h3 align="center">A Dev with Big dreams..</h3>
+<h3 align="center">A Dev with Big dreams...<br><br>The Best Thing about Boolean is even if you are wrong, you are only off by a bit.</h3>
 
 - 🌱 I’m currently learning **Full stack Development and Machine Learning**
 
@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **anasmohammed361@gmail.com**
 
-- ⚡ Fun fact **The Best Thing about Boolean is even if you are wrong, you are only off by a bit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
