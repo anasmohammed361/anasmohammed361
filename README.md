@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Anas</h1>
 <h3 align="center">A Dev with Big dreams...<br><br>The Best Thing about Boolean is even if you are wrong, you are only off by a bit.</h3>
 
-- 🌱 I’m currently learning **Full stack Development and Machine Learning**
+- 🌱 I’m currently learning **Full stack Development and Flutter **
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
