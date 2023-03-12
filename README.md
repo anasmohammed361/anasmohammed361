@@ -1,27 +1,36 @@
+# Hi, I'm Anas! 👋
+---
+<img src="https://github.com/anasmohammed361/anasmohammed361/blob/main/Header.gif?raw=true" width="100%">
 
 
-
-<h1 align="center">Hi 👋, I'm Mohammed Anas</h1>
-<h3 align="center">A Dev with Big dreams...<br><br>The Best Thing about Boolean is even if you are wrong, you are only off by a bit.</h3>
-
-- 🌱 I’m currently learning **Full stack Development and Flutter **
-
-- 👯 I’m looking to collaborate on **Web Projects**
-
-- 💬 Ask me about **Python , Linux , JavaScript**
-
-- 📫 How to reach me **anasmohammed361@gmail.com**
+# About Me
+>## Currently
+> - ### FullStack Web Developer
+>## Interested on 
+> - ### Mobile Development
+> - ### Cybersecurity
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed anas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed anas" height="30" width="40" /></a>
-<a href="https://instagram.com/anasmohammed361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anasmohammed361" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anasmohammed361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anasmohammed361" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/qEhcDtdJgR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qEhcDtdJgR" height="30" width="40" /></a>
+# Stats
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=anasmohammed361&bg_color=141321&custom_title=My%20Contributions">
+ <img src="https://streak-stats.demolab.com?user=anasmohammed361&theme=radical" alt = "Stat">
+ <img src="https://github-readme-stats.vercel.app/api?username=anasmohammed361&show_icons=true&theme=radical" alt = "Stat">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasmohammed361&theme=radical&show_icons=true&hide_border=true&layout=compact" alt = "Lang">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmohammed361&show_icons=true&locale=en&layout=compact" alt="anasmohammed361" /></p>
+## Contact Me
+[![Mail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red "mohd.anas.292004@gmail.com")](https://mailto:mohd.anas.292004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=informational "Mohammed Anas")](https://linkedin.com/in/mohammed%20anas)
+[![Github](https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=grey "anasmohammed361")](https://github.com/anasmohammed361/)
+[![Discord](https://img.shields.io/badge/dicord-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=727EE7 "anasmohammed361")](https://discord.com/users/900248820007444512)
+
+---
+<h2 align="center">  The Only Way to Predict the Future is to Invent it . </h2>
+
+<p align="center"> Made with ❤️ by Anas</p>
+
+---
